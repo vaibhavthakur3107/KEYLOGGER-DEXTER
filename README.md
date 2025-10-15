@@ -1,9 +1,3 @@
-
-
-Of course. Based on our analysis, here is a revised and much more complete README file. You can copy and paste this directly into your `README.md` file.
-
----
-
 # Keylogger Assignment
 
 ## Description
